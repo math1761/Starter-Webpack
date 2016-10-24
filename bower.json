@@ -1,0 +1,17 @@
+{
+  "name": "Starters",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "Mathieu Levi <mathieulevi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
